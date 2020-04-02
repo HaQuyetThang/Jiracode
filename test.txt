@@ -1,2 +1,4 @@
 day la file test
 nhanh master sua
+issue 2 them vao
+ok done
